@@ -1,0 +1,5 @@
+com\endava\qa\gmail\actions\LoginLogoutActions.class
+com\endava\qa\gmail\hook\LoginTest.class
+com\endava\qa\gmail\page\LoginLogoutPage.class
+com\endava\qa\gmail\Runner.class
+com\endava\qa\gmail\steps\MyStepdefs.class
